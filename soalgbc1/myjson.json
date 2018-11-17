@@ -1,0 +1,12 @@
+{
+    "data": [
+    {"itemId" : "12341822"},
+    {"itemName" : "FGX Flannel Shirt"},
+    {"Price" : 195000},
+    {"availableColorAndSize" : [
+        {"color" : "blue-black","size" : ["M","L","XL"]},
+        {"color" : "black-white","size":["L"]}
+    ]},
+    {"freeShiping" : false}
+    ]}
+    
